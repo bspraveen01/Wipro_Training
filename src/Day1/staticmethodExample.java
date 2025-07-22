@@ -1,4 +1,4 @@
-package Basics1;
+package Day1;
 
 public class staticmethodExample {
      static int addition (int a , int b) {

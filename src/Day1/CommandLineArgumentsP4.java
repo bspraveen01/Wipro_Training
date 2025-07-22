@@ -1,4 +1,4 @@
-package Basics1;
+package Day1;
 
 public class CommandLineArgumentsP4 {
    public static void main(String[] args) { //args is a String array that stores command-line arguments passed to the program.

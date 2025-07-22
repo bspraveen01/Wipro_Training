@@ -1,4 +1,4 @@
-package Basics1;
+package Day1;
 
 public class PrimitiveP5 {
     public static void main(String[] args){

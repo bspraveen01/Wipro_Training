@@ -1,4 +1,4 @@
-package Basics1;
+package Day1;
 
 
 class Person{
