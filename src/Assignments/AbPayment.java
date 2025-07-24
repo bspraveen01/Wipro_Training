@@ -1,4 +1,4 @@
-package Day4;
+package Assignments;
 
 abstract class Payment1 {
      double amount;

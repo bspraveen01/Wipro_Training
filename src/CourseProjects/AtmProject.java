@@ -1,4 +1,4 @@
-package Atm;
+package CourseProjects;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Day4;
+package Assignments;
 
 interface Paymentr {
     void makePayment();
