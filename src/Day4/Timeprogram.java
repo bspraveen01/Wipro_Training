@@ -4,7 +4,7 @@ public class Timeprogram {
   public static void main(String[] args) {
 	  String[] tasks = {
 			  "do tasks",
-			  "pratice java problem",
+			  "pratice java problems",
 			  "lunch break",
 			  "pratice problems",
 			   "movies"
