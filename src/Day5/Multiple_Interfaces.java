@@ -39,7 +39,7 @@ class Calculator extends CalculatorUtils implements Addition, Subtraction {
 }
 
 
-public class Multiple_Inheritance {
+public class Multiple_Interfaces {
   public static void main(String[] args) {
      Calculator calc = new Calculator();
      

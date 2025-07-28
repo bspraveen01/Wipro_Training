@@ -21,7 +21,7 @@ public class NonStatic {
 
 /* Another example of NON static methods.
  * public class staticmethodExample {
-     int addition (int a , int b) {
+    static int addition (int a , int b) {
     	 return a+b;
      }
      public static void main(String[] args) {

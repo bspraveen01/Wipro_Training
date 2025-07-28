@@ -34,7 +34,7 @@ class Wipro extends WorkingSystems1{
 	
 }
 
-public class WorkingSystems{
+public class WorkingSystems12{
 	public static void main(String[] args) {
 		WorkingSystems1 result = new Capgemini();
 		result.applicationProcess();

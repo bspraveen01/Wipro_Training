@@ -23,7 +23,7 @@ class Machinerees implements A,B{
 }
 
 
-public class Default_MultipleInheritance {
+public class Default_MultipleInterface {
 	public static void main(String[] args) {
 		Machinerees sra = new Machinerees();
 	    sra.show();

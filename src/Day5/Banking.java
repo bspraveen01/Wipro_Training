@@ -6,7 +6,7 @@ interface Account{
 		System.out.println("Account type is Generic");
 	}
 	static void bankRules() {
-		System.out.println("w minimum balance should maintain $3000");
+		System.out.println(" maintain minimum balance rs. 1000");
 	}
 }
 
@@ -14,7 +14,7 @@ interface Transaction{
 	void deposit(double amount);
 	void withdraw(double amount);
 	default void transactionFee(){
-		System.out.println(" 10 per transaction ");
+		System.out.println(" 10Rs per transaction ");
 	}
 }
 

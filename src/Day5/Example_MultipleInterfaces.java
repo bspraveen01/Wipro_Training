@@ -2,11 +2,11 @@ package Day5;
 
 
 interface Printer {
-    void print();  // abstract method
+    void print();  
 }
 
 interface Scanner {
-    void scan();  // abstract method
+    void scan();  
 }
 
 
@@ -24,7 +24,7 @@ class machinere implements Printer, Scanner {
 }
 
 
-public class Example_MultipleInheritance {
+public class Example_MultipleInterfaces {
     public static void main(String[] args) {
         machinere sd = new machinere(); 
         sd.scan();                
