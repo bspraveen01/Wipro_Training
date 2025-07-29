@@ -41,7 +41,7 @@ public class Strings {
     	// Replace all spaces with --
     	String sr = "Sriram praveen B";
     	String res = sr.replace(" ", "-");
-    	System.out.println("replaced");
+    	System.out.println("replaced:"+res);
     	
     	// Insert Text into a String using StringBuffer
     	StringBuffer sbs = new StringBuffer("learning java");

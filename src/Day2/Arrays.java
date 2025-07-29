@@ -1,7 +1,7 @@
 package Day2;
 
 
-// Array is a collection elements of same data type. stored in contiguos memory locations. Arrays are fixed in size.
+// Array is a collection of elements of same data type. stored in contiguos memory locations. Arrays are fixed in size.
 public class Arrays {
         public static void main(String[] args) {
         	// single dimensional Array

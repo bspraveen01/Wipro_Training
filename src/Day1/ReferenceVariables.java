@@ -19,7 +19,7 @@ public class ReferenceVariables {
 	 
 	 int x = 20;
 	 int y = x; //y is a copy of x, so changing y doesn't affect x.
-	 y=20;
+	 y=25;
 	 System.out.println("X:"+x);
 	 
 	 

@@ -1,7 +1,6 @@
 package Day3;
 
 public class BankAccount {
-    
 	// these are objects or properties.
 	private String accHolderName;
 	private double balance;

@@ -8,7 +8,7 @@ public class SortingNames {
     public static void main(String[] args) {
     	ArrayList<String> sorlist = new ArrayList<>(); 
     	sorlist.add("Praveen");
-    	sorlist.add("Mounish");
+    	sorlist.add("Likhitha");
     	sorlist.add("Ganesh");
     	sorlist.add("Shruthika");
     	sorlist.add("Sravani");
