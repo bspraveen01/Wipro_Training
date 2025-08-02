@@ -1,4 +1,4 @@
-package Day9;
+package Day10;
 
 import java.io.FileWriter;
 import java.io.IOException;
